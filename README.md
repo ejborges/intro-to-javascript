@@ -3,6 +3,9 @@ intro-to-javascript
 
 A simple interactive JavaScript tutorial.  Based on Douglas Crockford's presentation "The JavaScript Programming Language" (http://www.youtube.com/watch?v=v2ifWcnQs6M).
 
+To access the tutorial, visit: http://ejborges.github.io/intro-to-javascript
+*Note: Change "ejborges" to your username to run the page from your repository.
+
 
 Setup
 -----
